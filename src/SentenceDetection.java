@@ -20,7 +20,6 @@ public class SentenceDetection {
 			for(Object word : sentence) {
 				System.out.print(word + " ");
 			}
-			
 			System.out.println();
 		}
 
